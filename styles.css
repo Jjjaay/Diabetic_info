@@ -1,4 +1,21 @@
-img {
+
+
+body {
+    display: block;
+    margin: 8px;
+}
+
+
+
+
+
+.doc {
     width: 400px;
     height: 500px;
+}
+
+
+.diabetes-img {
+    width: 900px;
+    height: 430px;
 }
