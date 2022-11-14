@@ -9,13 +9,21 @@ body {
 
 
 
-.doc {
+.doc-img {
     width: 400px;
     height: 500px;
 }
 
 
-.diabetes-img {
-    width: 900px;
-    height: 430px;
+.analytics-img {
+    transform: scale(.7, 0.7);
+}
+
+
+.copyright-txt {
+    text-align: center;
+}
+
+footer {
+    display: block;
 }
